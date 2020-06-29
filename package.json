@@ -21,7 +21,7 @@
     "slice"
   ],
   "author": "Inventor Dave",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/leeodea/node-img-slice/issues"
   },
