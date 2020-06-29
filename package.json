@@ -1,0 +1,29 @@
+{
+  "name": "img-slice",
+  "version": "1.0.0",
+  "description": "A utility app for 'slicing' a tiled image file into it's individual tiles.",
+  "main": "img-slice.js",
+  "dependencies": {
+    "canvas": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node img-slice 3 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeodea/node-img-slice.git"
+  },
+  "keywords": [
+    "image",
+    "tile",
+    "tiles",
+    "slice"
+  ],
+  "author": "Inventor Dave",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/leeodea/node-img-slice/issues"
+  },
+  "homepage": "https://github.com/leeodea/node-img-slice#readme"
+}
